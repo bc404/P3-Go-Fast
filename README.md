@@ -8,7 +8,7 @@ Background now moves left, doesn't wrap yet
  
 Cones currently fly towards player at warp speeds and spawn impossibly fast
 
-April 11: Finished up cone moving ans spawning
+April 11: Finished up cone moving and spawning
 
 April 12: Cones despawn off screen
 
